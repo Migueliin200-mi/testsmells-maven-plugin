@@ -7,7 +7,7 @@
 
   <groupId>com.github.Migueliin200-mi</groupId>
   <artifactId>testsmells-maven-plugin</artifactId>
-  <version>v1.0</version>
+  <version>v2.0</version>
 
   <packaging>maven-plugin</packaging>
 
